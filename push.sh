@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#initiate
+git init .
+
 # Stage changes
 git add .
 
