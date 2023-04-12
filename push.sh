@@ -7,7 +7,7 @@ git init .
 git add .
 
 # Commit changes with message
-git commit -m "initial_commit"
+git commit -m "initial_02_commit"
 
 #choose a branch
 git branch -M main
