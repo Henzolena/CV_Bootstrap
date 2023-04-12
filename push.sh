@@ -1,10 +1,3 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Henzolena/CV_Bootstrap.git
-git push -u origin main
-
 #!/bin/bash
 
 # Stage changes
@@ -20,7 +13,7 @@ git branch -M main
 git remote add origin https://github.com/Henzolena/CV_Bootstrap.git
 
 # Push changes to remote repository
-git push origin master
+git push -u origin master
 
 
 
